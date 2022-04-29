@@ -1,1 +1,1 @@
-
+The rapping dataset was taken from [AudioSet](https://research.google.com/audioset/dataset/rapping.html) and downloaded using code from [Aoife McDonagh](https://github.com/aoifemcdonagh/audioset-processing). A few audio samples will be included here for testing purposes, however they will not all be uploaded due to copyright reasons.
